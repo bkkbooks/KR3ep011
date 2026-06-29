@@ -1,0 +1,342 @@
+canonical_identifier: bkk:krp/KR3ep011/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ep011/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 王旭高臨證醫案
+  identifiers:
+    krp: KR3ep011
+  tags:
+    kr-categories: KR3ep
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ep011.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ep011_000-jc.yaml, hash: 'sha256:19bd46e0b63b56f4d54e6da7b5251f18965694cc4cdf08fbf1cb66cabfba1f3d'}
+  - {seq: 1, filename: KR3ep011_001-jc.yaml, hash: 'sha256:735499fed55394a7c2be2ef412b8037f6d3926f0f9f2ec887f3ac2869e6ad6c8'}
+  - {seq: 2, filename: KR3ep011_002-jc.yaml, hash: 'sha256:b1c0b5a77355c3008023897a7fdf5d1c434704f37b4069870c8d6ee37b2a97b0'}
+  - {seq: 3, filename: KR3ep011_003-jc.yaml, hash: 'sha256:807f932f278be5a61407291596476dfdab97650d244d24740c0c301c44329060'}
+  - {seq: 4, filename: KR3ep011_004-jc.yaml, hash: 'sha256:e1b2242f3184c94697ec2c5a837fb60989306a7814bc017bebf51cc800106190'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ep011_000-jc.markers.yaml, hash: 'sha256:0f48fc7f7deb2bcde0d02c02701b36a13aba311c80f2b0c2549446c1836339fc'}
+  - {seq: 1, role: markers, filename: assets/KR3ep011_001-jc.markers.yaml, hash: 'sha256:6e255d5b1876a36c63b8b51440daa2fadf53fad91e2163902e31aab5c6634b5f'}
+  - {seq: 2, role: markers, filename: assets/KR3ep011_002-jc.markers.yaml, hash: 'sha256:9d196bd3bda23119cf5fba4114125eedbe11b374b23533a5cd5569d78dad6a1a'}
+  - {seq: 3, role: markers, filename: assets/KR3ep011_003-jc.markers.yaml, hash: 'sha256:7191fd1e11550aaa42b16fc14e770c0e38964f91cc1a79c25a4ec3fd5c451e6c'}
+  - {seq: 4, role: markers, filename: assets/KR3ep011_004-jc.markers.yaml, hash: 'sha256:15adc23f7e3988fa530ce62f9a7990cc1455c01a0a71c2c4953babf210ec45e9'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ep011_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 563
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ep011_jc_001-d3.h1s1
+    span:
+    - body
+    - 0
+    - 23033
+  label: 卷之一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ep011_jc_001-d3d2
+    span:
+    - body
+    - 3
+    - 9605
+  label: 溫邪門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep011_jc_001-d3d3
+    span:
+    - body
+    - 9605
+    - 11107
+  label: 暑邪門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep011_jc_001-d3d4
+    span:
+    - body
+    - 11107
+    - 15533
+  label: 伏暑門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep011_jc_001-d3d5
+    span:
+    - body
+    - 15533
+    - 18702
+  label: 瘧疾門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep011_jc_001-d3d6
+    span:
+    - body
+    - 18702
+    - 22197
+  label: 痢疾門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep011_jc_001-d3d7
+    span:
+    - body
+    - 22197
+    - 23033
+  label: 黃疸門
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ep011_jc_002-d4.h1s1
+    span:
+    - body
+    - 0
+    - 22247
+  label: 卷之二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ep011_jc_002-d4d2
+    span:
+    - body
+    - 3
+    - 2469
+  label: 中風門
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ep011_jc_002-d4d3
+    span:
+    - body
+    - 2469
+    - 6676
+  label: 肝風痰火門
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ep011_jc_002-d4d4
+    span:
+    - body
+    - 6676
+    - 13247
+  label: 虛勞門
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ep011_jc_002-d4d5
+    span:
+    - body
+    - 13247
+    - 17484
+  label: 吐血門
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ep011_jc_002-d4d6
+    span:
+    - body
+    - 17484
+    - 22247
+  label: 臌脹水腫門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep011_jc_003-d5.h1s1
+    span:
+    - body
+    - 0
+    - 20068
+  label: 卷之三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ep011_jc_003-d5d2
+    span:
+    - body
+    - 3
+    - 4700
+  label: 積聚門附蟲積
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep011_jc_003-d5d3
+    span:
+    - body
+    - 4700
+    - 7477
+  label: 脘腹痛門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep011_jc_003-d5d4
+    span:
+    - body
+    - 7477
+    - 10686
+  label: 噎膈反胃門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep011_jc_003-d5d5
+    span:
+    - body
+    - 10686
+    - 12199
+  label: 三消門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep011_jc_003-d5d6
+    span:
+    - body
+    - 12199
+    - 17634
+  label: 痰飲門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep011_jc_003-d5d7
+    span:
+    - body
+    - 17634
+    - 20068
+  label: 痰喘門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ep011_jc_004-d6.h1s1
+    span:
+    - body
+    - 0
+    - 19894
+  label: 卷之四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3ep011_jc_004-d6d2
+    span:
+    - body
+    - 3
+    - 3320
+  label: 咳嗽門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ep011_jc_004-d6d3
+    span:
+    - body
+    - 3320
+    - 4423
+  label: 疝氣門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ep011_jc_004-d6d4
+    span:
+    - body
+    - 4423
+    - 7264
+  label: 遺精淋濁門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ep011_jc_004-d6d5
+    span:
+    - body
+    - 7264
+    - 7850
+  label: 痙厥門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ep011_jc_004-d6d6
+    span:
+    - body
+    - 7850
+    - 9420
+  label: 雜病門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ep011_jc_004-d6d7
+    span:
+    - body
+    - 9420
+    - 12587
+  label: 婦人門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ep011_jc_004-d6d8
+    span:
+    - body
+    - 12587
+    - 14864
+  label: 產後門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ep011_jc_004-d6d9
+    span:
+    - body
+    - 14864
+    - 15602
+  label: 幼科門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ep011_jc_004-d6d10
+    span:
+    - body
+    - 15602
+    - 19894
+  label: 外瘍門
+  type: section
+  level: 2
+hash: sha256:88b96481b6eceea44b2c0874e3112750d590d4e4e872273ec8c0689e1865b8f8
